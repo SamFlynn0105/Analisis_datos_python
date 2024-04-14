@@ -32,3 +32,8 @@ Los datos pueden entenderse como características y etiquetas. Las característi
 Pandas y Plotly son herramientas eficaces para explorar los conjuntos de datos en Python.
 
 Una vez que tenemos un modelo entrenado, podemos guardarlo en el disco para su uso posterior.
+
+
+Dividir un conjunto de datos en un conjunto de entrenamiento y un conjunto de prueba
+Entrenar un modelo utilizando el conjunto de entrenamiento y probar su rendimiento en el conjunto de entrenamiento, el conjunto de prueba y en un conjunto de datos nuevo e invisible.
+Se compararon las respectivas MPE para resaltar los efectos y peligros del sobreajuste.
